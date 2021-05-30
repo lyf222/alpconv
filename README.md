@@ -1,7 +1,7 @@
 # alpconv
 calculating alp-photon conversion
 
-by C. Zhang, Y. Z. Fan, Y. F. Liang
+by C. Zhang, Y. Z. Fan, Y. F. Liang et al.
 
 please see the below paper for detailed references.
 
